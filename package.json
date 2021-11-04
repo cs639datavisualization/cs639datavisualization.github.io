@@ -6,12 +6,19 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.1",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "redux": "^4.1.2",
+    "video-react": "^0.14.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://rubywangruobin.github.io/my-app"
 }
