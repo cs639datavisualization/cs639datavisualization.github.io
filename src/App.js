@@ -29,7 +29,7 @@ function App() {
     "LEE, HUAN YOEI": "https://gdurl.com/I_oJ",
     "LIANG, SHANCHAO": "https://gdurl.com/ohPQ",
     "LIN, YUCHENG": "https://gdurl.com/VeBU",
-    "LIU, ZILIN": "",
+    "LIU, ZILIN": "https://gdurl.com/KwYE",
     "LOCHNER, LUKE": "https://gdurl.com/xA9F",
     "LOUGHRAN, PATRICK": "https://gdurl.com/JBOt",
     "LYMAN, MAXWELL": "https://gdurl.com/phJQ",
